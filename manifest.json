@@ -1,6 +1,5 @@
 {
  "name": "03",
- "display": "fullscreen",
  "start_url": "index.htm",
  "icons": [
   {
@@ -39,6 +38,7 @@
    "src": "misc/icon64.png"
   }
  ],
+ "background_color": "#000033",
  "theme_color": "#000033",
- "background_color": "#000033"
+ "display": "fullscreen"
 }
