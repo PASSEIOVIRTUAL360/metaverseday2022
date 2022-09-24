@@ -1,8 +1,8 @@
 {
+ "start_url": "index.htm",
  "name": "METAVERSE DAY 2022",
  "display": "fullscreen",
  "theme_color": "#330066",
- "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
