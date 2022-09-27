@@ -1,5 +1,4 @@
 {
- "name": "METAVERSE DAY 2022",
  "icons": [
   {
    "type": "image/png",
@@ -37,8 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
+ "name": "METAVERSE DAY 2022",
+ "display": "fullscreen",
  "start_url": "index.htm",
- "background_color": "#330066",
  "theme_color": "#330066",
- "display": "fullscreen"
+ "background_color": "#330066"
 }
